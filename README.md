@@ -1,2 +1,2 @@
-# project-kafka
-Spring Boot with Kafka
+# project-rabbitmq
+Spring Boot with Rabbitmq
